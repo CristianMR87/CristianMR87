@@ -9,7 +9,7 @@ I'm a **self-taught developer** with 8 months of hands-on experience in **web de
 
 ## 🌱 What I'm learning:
 - Mastering **Java** and **Python**.
-- Exploring **JavaScript**, **React**, **SpringBoot**.
+- Exploring **JavaScript**, **React**, **SpringBoot**, **Flask**.
 
 
 ## 📫 How to reach me:
@@ -21,7 +21,7 @@ I'm a **self-taught developer** with 8 months of hands-on experience in **web de
 ### 💻 Technologies & Tools:
 
 - **Languages**: JAVA, Python, HTML5, CSS3. 
-- **Frameworks**: SpringBoot, React.
+- **Frameworks**: SpringBoot, React, Flask.
 - **Databases**: Oracle,MySQL
 - **Version Control**: Git, GitHub
 
