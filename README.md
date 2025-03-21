@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Cristian, a Junior Developer.
 
-I'm a **self-taught developer** with 8 months of hands-on experience in **web development**, and currently a **DAW** student. My passion for coding has driven me to dive deep into **frontend** and **backend** technologies, and I'm eager to expand my knowledge further while building real-world projects.
+I'm a **self-taught developer** with 13 months of hands-on experience in **web development**, and currently a **DAW** student. My passion for coding has driven me to dive deep into **frontend** and **backend** technologies, and I'm eager to expand my knowledge further while building real-world projects.
 
 ## 🚀 What I'm working on right now:
 - Building projects with **Python**, **Java**.
