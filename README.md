@@ -3,13 +3,13 @@
 I'm a **self-taught developer** with 1 year of hands-on experience in **web development**, and currently a **DAW** student. My passion for coding has driven me to dive deep into **frontend** and **backend** technologies, and I'm eager to expand my knowledge further while building real-world projects.
 
 ## 🚀 What I'm working on right now:
-- Building projects with **Python**, **Java**, **React**.
+- Building projects with **Python**, **Java**, **React**, **TailWindCSS**.
 - Learning **Git** and **SpringBoot**.
 - Diving deeper into **Full-Stack Development** but main focused in **Back-End**.
 
 ## 🌱 What I'm learning:
 - Mastering **Java**, **Python**, **Oracle DB**.
-- Exploring **JavaScript**, **React**, **SpringBoot**, **Flask**.
+- Exploring **JavaScript**, **React**, **SpringBoot**, **Flask**, **TailWindCSS**.
 
 
 ## 📫 How to reach me:
