@@ -13,9 +13,9 @@ I'm a **self-taught developer** with 1 year of hands-on experience in **web deve
 
 
 ## 📫 How to reach me:
+- [Personal Website](https://cristian-morano.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/cristianmoranorodriguez)
 - [Email](mailto:cristian.morano@hotmail.com)
-- [Portfolio](https://cristian-morano.vercel.app/)
 
 ---
 
