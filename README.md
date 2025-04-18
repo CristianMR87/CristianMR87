@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Cristian, a Junior Developer.
+# Hi there! 👋 I'm Cristian, a Junior Full-Stack Developer.
 
 I'm a **self-taught developer** with 1 year of hands-on experience in **web development**, and currently a **DAW** student. My passion for coding has driven me to dive deep into **frontend** and **backend** technologies, and I'm eager to expand my knowledge further while building real-world projects.
 
