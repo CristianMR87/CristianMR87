@@ -23,7 +23,7 @@ I'm a self-taught developer with 1 year and a half of hands-on experience in **w
 ### 💻 Technologies & Tools:
 
 - **Languages**: Java, Python, HTML5, CSS3.
-- **Frameworks**: SpringBoot, Bootstrap, React, TailwindCSS, Flask.
+- **Frameworks**: SpringBoot, Bootstrap, React, TailwindCSS.
 - **Databases**: Oracle, MySQL.
 - **Cloud & DevOps**: Azure (fundamentals).
 - **Containerization & Messaging**: Docker, Kafka (basics).
